@@ -1,0 +1,69 @@
+.add{
+    border: none;
+    background-color:rgb(255, 255, 255);
+    width: 40%;
+    margin: 60px 400px;
+}
+.up{
+    /* border: 2px solid black; */
+    /* border-radius: 80px; */
+    background-color:rgb(255, 255, 255);
+    width: 40%;
+    margin: 60px 400px;
+}
+.title,.page,.short,.long,.url{
+   padding: 10px 15px;
+   margin: 10px;
+   font-size: 25px;
+}
+#title{
+    margin-left: 180px;
+    border: 1px solid  rgba(119, 163, 250, 0.205);
+    border-radius: 30px;
+    padding: 10px 40px;
+    background-color:  rgba(119, 163, 250, 0.205);
+}
+#page{
+    margin-left: 110px;
+    border: 1px solid  rgba(119, 163, 250, 0.205);
+    border-radius: 30px;
+    padding: 10px 40px;
+    background-color:  rgba(119, 163, 250, 0.205);
+}
+#short{
+    margin-left: 50px;
+    border: 1px solid  rgba(119, 163, 250, 0.205);
+    border-radius: 30px;
+    padding: 10px 40px;
+    background-color:  rgba(119, 163, 250, 0.205);
+}
+#long{
+    margin-left: 60px;
+    border: 1px solid  rgba(119, 163, 250, 0.205);
+    border-radius: 30px;
+    padding: 4px 35px;
+    background-color:  rgba(119, 163, 250, 0.205);
+}
+#url{
+    margin-left: 90px;
+    border: 1px solid  rgba(119, 163, 250, 0.205);
+    border-radius: 30px;
+    padding: 10px 40px;
+    background-color:  rgba(119, 163, 250, 0.205);
+}
+.submit button{
+padding: 7px 50px;
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: red;
+color: white;
+margin: 15px;
+margin-left: 190px;
+border-radius: 10px;
+border: none;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    border: none;
+}

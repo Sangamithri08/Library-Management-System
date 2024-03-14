@@ -1,0 +1,64 @@
+.viewitems{
+    background-color: rgb(255, 255, 255);
+}
+#delete{
+    color: black;
+    font-size: larger;
+    background-color: transparent;
+    padding: 10px 40px;
+    border-radius: 30px;
+    border: none;
+    border-bottom: 4px solid  rgb(21, 185, 255);
+    margin: 10px 10px 30px 410px;
+}
+#viewmore{
+    color: black;
+    font-size: larger;
+    background-color: rgb(3, 179, 255);
+    padding: 10px 40px;
+    border-radius: 30px;
+    border: 2px solid  rgb(21, 185, 255);
+    margin: 20px;
+}
+#editbooks{
+    color: black;
+    font-size: larger;
+    background-color: transparent;
+    padding: 10px 40px;
+    border-radius: 30px;
+    border: none;
+    border-bottom: 4px solid rgb(21, 185, 255) ;
+    margin: 20px;
+}
+#delete:hover,#editbooks:hover{
+    font-size: x-large;
+    border-bottom:5px solid  rgb(255, 79, 21);
+    background-color: transparent;
+}
+#viewmore:hover{
+    background-color: transparent;
+    border: none;
+    font-size: x-large;
+    border-top: 4px solid  rgb(255, 79, 21);
+}
+.viewitems img{
+    margin-left: 46%;
+}
+
+#titleview{
+    text-align: center;
+}
+#pge{
+    text-align: center;
+}
+.viewlist h4{
+    text-align: center;
+  
+
+}
+#des{
+    margin: 20px 20px;
+    padding: 20px;
+    border: 0.1px solid black;
+    background-color: rgb(243, 249, 253);
+}

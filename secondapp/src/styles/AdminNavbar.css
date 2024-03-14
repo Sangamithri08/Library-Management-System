@@ -1,0 +1,32 @@
+.navlinnks{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 4px solid black;
+    border-left: 2px solid black ;
+}
+
+#viewlist,#addbooks,#updatebooks,#logout{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+.viewlist,.addbooks,.updatebooks,.logout{
+    padding: 50px 80px;
+}
+.img img{
+    margin-top: 25px;
+ height: 50px;
+}
+.img{
+    padding: 25px 100px;
+}
+#viewlist:hover,#addbooks:hover,#updatebooks:hover,#logout:hover{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.adminnavbar{
+    background:linear-gradient(to bottom, rgb(3, 179, 255), rgb(128, 208, 242), rgb(138, 216, 249), rgb(3, 179, 255));
+}

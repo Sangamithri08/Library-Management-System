@@ -1,0 +1,46 @@
+
+.home{
+    display: flex;
+}
+.admin{
+    margin:225px 10px 70px 800px;
+    border: 2px solid rgb(255, 253, 253);
+}
+.user {
+    margin: 225px 10px 70px 100px;
+    border: 2px solid rgb(255, 253, 253);
+
+}
+.admin:hover{
+    border-top: 5px solid rgb(255, 255, 255);
+    border-bottom: 7px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: -10px 0px 35pc 20px #ffffff;
+}
+.user:hover{
+    border-bottom: 7px solid rgb(255, 255, 255);
+    border-top: 5px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: -10px 0px 35pc 20px 
+    
+    
+    #ffffff;
+}
+
+.landingpage{
+    margin: none;
+    background-color: black;
+    /* background-image:
+    linear-gradient(transparent,transparent),url("https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+    /* background-size: cover; */
+}
+#lib {
+    margin: 0px 0px 20px 0px;
+    padding-top: 10.5%;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+
+    /* color: rgb(255, 234, 204); */
+
+}
